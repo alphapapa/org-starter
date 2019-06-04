@@ -3,6 +3,7 @@
 ;;;; Basic
 
 (require 'org-starter)
+(require 'org-reverse-datetree)
 
 (org-starter-def "cpb.org"
   :key "c")
